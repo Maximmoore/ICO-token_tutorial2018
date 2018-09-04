@@ -1,3 +1,5 @@
 Hello everyone! <br>
-You can find a video guide on how to work and deploy you personal Token and ICO on youtube video: <br>
+You can learn how to work with this contract, deploy you personal Token and make ICO in this youtube guide: <br>
+
+Thank you for your support! 
 
